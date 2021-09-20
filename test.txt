@@ -1,0 +1,35 @@
+
+Date: 05/26/2021
+
+Hello, this is the first entry into text since I started this project. Almost there!
+
+
+Date: 05/18/2021
+
+Wow I actually went back in time?! Damn I'm good.
+
+
+Date: 08/05/1999
+
+Hello goyim! I discovered functions and flow control today using if statements!
+
+
+Date: 05/27/2021
+
+Yo yo yo I just figured out if conditionals. I am big dumb dumb.
+
+
+Date: 09/19/2021
+
+So I'm starting this project back up again. Hopefully I can finish it within a week or so. Maybe two, idk. I really need to get a better job too
+
+
+Date: 09/19/2021
+
+testing the break feature in list view.
+
+
+Date: safd
+
+sfdsdafdsaf
+
